@@ -9,7 +9,7 @@ A real-time human body dimension measurement system using the **Intel RealSense 
 Intel RealSense D435i (Depth + RGB + IMU)
 
 🎞️ Camera & System Image Gallery
-<details> <summary>📷 Click to Expand Camera & App Images Gallery</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="600" alt="RealSense Body Measurement GUI - Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="600" alt="RealSense Body Measurement GUI - Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="600" alt="RealSense Body Measurement GUI - Image 4" /> </p> </details>
+<details> <summary>🔍 Click to View Camera Setup Images (1–6)</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(1).jpeg" width="600" alt="Camera Setup Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(2).jpeg" width="600" alt="Camera Setup Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(3).jpeg" width="600" alt="Camera Setup Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(4).jpeg" width="600" alt="Camera Setup Image 4" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(5).jpeg" width="600" alt="Camera Setup Image 5" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(6).jpeg" width="600" alt="Camera Setup Image 6" /> </p> </details>
 
 ---
 
@@ -97,7 +97,7 @@ python main.py
 
 | Live Detection | Measurement Results |
 |----------------|---------------------|
-| ![live](images/sample_result1.jpg) | ![output](images/sample_result2.jpg) |
+| ![live](sources/images(1).png) | ![output](sources/measurment.png) |
 
 ---
 
@@ -153,3 +153,6 @@ MIT License - feel free to use and modify with credit.
 - [PyQt5 Docs](https://doc.qt.io/qtforpython/)
 - [OpenCV](https://opencv.org/)
 ```
+
+## 🧪 Final Testing Image Gallery
+<details> <summary>📷 Click to Expand Final Testing Images</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="600" alt="Final Testing - Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="600" alt="Final Testing - Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="600" alt="Final Testing - Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="600" alt="Final Testing - Image 4" /> </p> </details>
