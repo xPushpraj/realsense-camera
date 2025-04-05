@@ -98,7 +98,14 @@ python main.py
 | ![Live](sources/images%20(1).png) | ![output](sources/measurment.png) |
 
 ---
+## 🧪 Previews
 
+| Results | Dimensions |
+|----------------|---------------------|
+| ![Live](sources/images%20(1).png) | ![output](sources/images%20(2).png) |
+| ![Live](sources/images%20(3).png) | ![output](sources/images%20(4).png) |
+
+---
 ## 🧠 How It Works
 
 - The RealSense D435i captures **RGB + depth** frames.
@@ -152,9 +159,4 @@ MIT License - feel free to use and modify with credit.
 - [OpenCV](https://opencv.org/)
 ```
 
-## 🧪 Previews
 
-| Results | Dimensions |
-|----------------|---------------------|
-| ![Live](sources/images%20(1).png) | ![output](sources/images%20(2).png) |
-| ![Live](sources/images%20(3).png) | ![output](sources/images%20(4).png) |
