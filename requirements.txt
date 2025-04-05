@@ -1,1 +1,7 @@
+pyrealsense2
+mediapipe
+opencv-python
+PyQt5
+openpyxl
+numpy
 
