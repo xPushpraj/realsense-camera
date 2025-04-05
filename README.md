@@ -9,15 +9,7 @@ A real-time human body dimension measurement system using the **Intel RealSense 
 Intel RealSense D435i (Depth + RGB + IMU)
 
 🎞️ Camera & System Image Gallery
-<details> <summary>🔍 Click to View Camera Setup Images (1–6)</summary> <p align="center"> 
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(1).jpeg" width="600" alt="Camera Setup Image 1" /> <br><br> 
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(2).jpeg" width="600" alt="Camera Setup Image 2" /> <br><br> 
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(3).jpeg" width="600" alt="Camera Setup Image 3" /> <br><br> 
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(4).jpeg" width="600" alt="Camera Setup Image 4" /> <br><br> 
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(5).jpeg" width="600" alt="Camera Setup Image 5" /> <br><br>
-<img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/camera(6).jpeg" width="600" alt="Camera Setup Image 6" /> </p> </details>
-
----
+<details> <summary>📷 Click to Expand Camera & App Images Gallery</summary> <p align="center"> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(1).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 1" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(2).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 2" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(4).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(3).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(5).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(6).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 4" /> </p> </details>
 
 ## ⚙️ Features
 
