@@ -62,7 +62,7 @@ body_measurement_gui/
 #### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/body_measurement_gui.git
+git clone https://github.com/xpushpraj/body_measurement_gui.git
 cd body_measurement_gui
 ```
 
