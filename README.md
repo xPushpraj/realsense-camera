@@ -11,6 +11,15 @@ Intel RealSense D435i (Depth + RGB + IMU)
 🎞️ Camera & System Image Gallery
 <details> <summary>📷 Click to Expand Camera & App Images Gallery</summary> <p align="center"> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(1).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 1" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(2).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 2" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(4).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(3).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(5).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://github.com/xPushpraj/realsense-camera/blob/main/sources/camera%20(6).jpeg" width="600" alt="RealSense Body Measurement GUI - Image 4" /> </p> </details>
 
+## 🎞️ Camera & System Image Gallery
+
+| Results | Dimensions |
+|----------------|---------------------|
+| ![Camera](sources/camera%20(1).jpeg) | ![Camera](sources/camera%20(1).jpeg) |
+| ![Camera](sources/camera%20(1).jpeg) | ![Camera](sources/camera%20(1).jpeg) |
+| ![Camera](sources/camera%20(1).jpeg) | ![Camera](sources/camera%20(1).jpeg) |
+
+
 ## ⚙️ Features
 
 - 🎯 Real-time body detection using MediaPipe Pose (33 landmarks)
@@ -98,14 +107,6 @@ python main.py
 | ![Live](sources/images%20(1).png) | ![output](sources/measurment.png) |
 
 ---
-## 🧪 Previews
-
-| Results | Dimensions |
-|----------------|---------------------|
-| ![Live](sources/images%20(1).png) | ![output](sources/images%20(2).png) |
-| ![Live](sources/images%20(3).png) | ![output](sources/images%20(4).png) |
-
----
 ## 🧠 How It Works
 
 - The RealSense D435i captures **RGB + depth** frames.
@@ -138,6 +139,12 @@ pip install -r requirements.txt
 ```
 
 ---
+## 🧪 Previews
+
+| Results | Dimensions |
+|----------------|---------------------|
+| ![Preview](sources/images%20(1).png) | ![Preview](sources/images%20(2).png) |
+| ![Preview](sources/images%20(3).png) | ![Preview](sources/images%20(4).png) |
 
 ## 🧑‍💻 Contributing
 
