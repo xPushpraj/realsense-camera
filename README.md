@@ -97,7 +97,7 @@ python main.py
 
 | Live Detection | Measurement Results |
 |----------------|---------------------|
-| ![output](sources/measurment.png) | ![output](sources/measurment.png) |
+| ![Live](sources/measurment.png) | ![output](sources/measurment.png) |
 
 ---
 
@@ -154,5 +154,7 @@ MIT License - feel free to use and modify with credit.
 - [OpenCV](https://opencv.org/)
 ```
 
-## 🧪 Final Testing Image Gallery
-<details> <summary>📷 Click to Expand Final Testing Images</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="600" alt="Final Testing - Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="600" alt="Final Testing - Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="600" alt="Final Testing - Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="600" alt="Final Testing - Image 4" /> </p> </details>
+🧪 Final Testing
+👉 Scroll horizontally to view the image gallery.
+
+<div align="center" style="overflow-x: auto; white-space: nowrap;"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images(1).png" width="600" style="display: inline-block; margin-right: 10px;" alt="Final Testing - Image 1" /> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images(2).png" width="600" style="display: inline-block; margin-right: 10px;" alt="Final Testing - Image 2" /> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images(3).png" width="600" style="display: inline-block; margin-right: 10px;" alt="Final Testing - Image 3" /> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images(4).png" width="600" style="display: inline-block;" alt="Final Testing - Image 4" /> </div>
