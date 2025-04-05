@@ -97,7 +97,7 @@ python main.py
 
 | Live Detection | Measurement Results |
 |----------------|---------------------|
-| ![live](sources/images(1).png) | ![output](sources/measurment.png) |
+| ![live](sources/images (2).png) | ![output](sources/measurment.png) |
 
 ---
 
