@@ -10,7 +10,7 @@ Intel RealSense D435i (Depth + RGB + IMU)
 
 ## 🎞️ Camera & System Image Gallery
 
-| Results | Dimensions |
+| Camera | Intel RealSense D435i |
 |----------------|---------------------|
 | ![Camera](sources/camera%20(1).jpeg) | ![Camera](sources/camera%20(2).jpeg) |
 | ![Camera](sources/camera%20(3).jpeg) | ![Camera](sources/camera%20(4).jpeg) |
@@ -138,7 +138,7 @@ pip install -r requirements.txt
 ---
 ## 🧪 Previews
 
-| Results | Dimensions |
+| Results | Outputs |
 |----------------|---------------------|
 | ![Preview](sources/images%20(1).png) | ![Preview](sources/images%20(2).png) |
 | ![Preview](sources/images%20(3).png) | ![Preview](sources/images%20(4).png) |
