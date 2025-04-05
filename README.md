@@ -95,7 +95,7 @@ python main.py
 
 | Live Detection | Measurement Results |
 |----------------|---------------------|
-| ![Live](sources/measurment.png) | ![output](sources/measurment.png) |
+| ![Live](sources/images%20(1).png) | ![output](sources/measurment.png) |
 
 ---
 
@@ -152,5 +152,5 @@ MIT License - feel free to use and modify with credit.
 - [OpenCV](https://opencv.org/)
 ```
 
-🎞️ FInal Testing Resultss
+🎞️ Camera & System Image Gallery
 <details> <summary>📷 Click to Expand Camera & App Images Gallery</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="600" alt="RealSense Body Measurement GUI - Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="600" alt="RealSense Body Measurement GUI - Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="600" alt="RealSense Body Measurement GUI - Image 4" /> </p> </details>
