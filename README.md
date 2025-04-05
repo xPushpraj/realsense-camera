@@ -154,5 +154,5 @@ MIT License - feel free to use and modify with credit.
 - [OpenCV](https://opencv.org/)
 ```
 
-✅ Final Testing Image Gallery
-<details> <summary>📷 Click to expand gallery</summary> <p> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="300"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="300"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="300"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="300"> </p> </details>
+🎞️ FInal Testing Resultss
+<details> <summary>📷 Click to Expand Camera & App Images Gallery</summary> <p align="center"> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(1).png" width="600" alt="RealSense Body Measurement GUI - Image 1" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(2).png" width="600" alt="RealSense Body Measurement GUI - Image 2" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(3).png" width="600" alt="RealSense Body Measurement GUI - Image 3" /> <br><br> <img src="https://raw.githubusercontent.com/xPushpraj/realsense-camera/main/sources/images%20(4).png" width="600" alt="RealSense Body Measurement GUI - Image 4" /> </p> </details>
